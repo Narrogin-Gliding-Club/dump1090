@@ -23,12 +23,12 @@ SelectedColor = "rgb(225, 225, 225)";
 StaleColor = "rgb(190, 190, 190)";
 
 // -- Site Settings ---------------------------------------
-SiteShow    = false; // true or false
+SiteShow    = true; // true or false
 // The Latitude and Longitude in decimal format
-SiteLat     = 45.0;
-SiteLon     = 9.0;
+SiteLat     = -32.9275;
+SiteLon     = 117.0780;
 
 SiteCircles = true; // true or false (Only shown if SiteShow is true)
 // In nautical miles or km (depending settings value 'Metric')
-SiteCirclesDistances = new Array(100,150,200);
+SiteCirclesDistances = new Array(10,20,30,40,50,60,70,80,90,100,110,120,130,140,150,160,170,180,190,200);
 
